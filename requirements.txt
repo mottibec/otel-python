@@ -1,8 +1,7 @@
 requests
 Flask
-opentelemetry-sdk
-opentelemetry-distro
 opentelemetry-instrumentation
+opentelemetry-distro
+opentelemetry-exporter-otlp-proto-grpc
 opentelemetry-instrumentation-flask
 opentelemetry-instrumentation-requests
-opentelemetry-exporter-jaeger
